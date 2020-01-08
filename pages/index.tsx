@@ -1,12 +1,11 @@
 import { useEffect, useState } from 'react';
+// require('dotenv').config();
 
-const client = require('contentful').createClient({
-	space: process.env.SPACE_ID,
-	accessToken: process.env.ACCESS_TOKEN,
-});
+// const client = require('contentful').createClient({
+//   space: process.env.SPACE_ID,
+//   accessToken: process.env.ACCESS_TOKEN
+// });
 
-// funtion IndexPage() {
-//     async function 
-// }
+function IndexPage() {}
 
-// export default IndexPage();
+export default IndexPage;
