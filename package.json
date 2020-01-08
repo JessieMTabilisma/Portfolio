@@ -1,0 +1,42 @@
+{
+	"name": "Portfolio",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"dev": "next",
+		"build": "next build",
+		"start": "next start"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/JessieMTabilisma/Portfolio.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/JessieMTabilisma/Portfolio/issues"
+	},
+	"homepage": "https://github.com/JessieMTabilisma/Portfolio#readme",
+	"dependencies": {
+		"contentful": "^7.12.0",
+		"next": "^9.1.7",
+		"react": "^16.12.0",
+		"react-dom": "^16.12.0",
+		"tailwindcss": "^1.1.4"
+	},
+	"devDependencies": {
+		"@types/node": "^13.1.4",
+		"@types/react": "^16.9.17",
+		"@typescript-eslint/eslint-plugin": "^2.15.0",
+		"@typescript-eslint/parser": "^2.15.0",
+		"eslint": "^6.8.0",
+		"eslint-config-airbnb": "^18.0.1",
+		"eslint-plugin-import": "^2.19.1",
+		"eslint-plugin-jsx-a11y": "^6.2.3",
+		"eslint-plugin-react": "^7.17.0",
+		"eslint-plugin-react-hooks": "^1.7.0",
+		"typescript": "^3.7.4"
+	}
+}
